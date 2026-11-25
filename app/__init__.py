@@ -1,0 +1,1 @@
+"""FastAPI backend fundamentals application package."""
